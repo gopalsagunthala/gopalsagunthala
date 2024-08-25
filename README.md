@@ -18,8 +18,6 @@
 <p align="left">
 <a href="https://twitter.com/kgopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kgopal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gopal-k-294624251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopal-k-294624251" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@h210701517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@h210701517" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gopal753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopal753" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
