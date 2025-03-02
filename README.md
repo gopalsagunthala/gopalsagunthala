@@ -6,13 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kgopal" target="blank"><img src="https://img.shields.io/twitter/follow/kgopal?logo=twitter&style=for-the-badge" alt="kgopal" /></a> </p>
 
-- 🔭 I’m currently working on **AI powered nutrition analyzer bot for fitness enthusiast.**
-
-- 🌱 I’m currently learning **AI and Backend development**
-
-- 👯 I’m looking to collaborate on **Full Stack**
-
-- 📫 How to reach me **210701517@rajalakshmi.edu.in**
+- 📫 How to reach me **gopaldesigner2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
